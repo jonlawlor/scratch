@@ -21,9 +21,18 @@ The Gonum project provides general purpose numerical computing and data science 
 
 Gonum discussion takes place on the [gonum-dev google group](https://groups.google.com/forum/#!forum/gonum-dev).
 
-### Code of Conduct
+### Working Together
 
-We expect the same values and behavior as described in [Go code of conduct](https://golang.org/conduct).
+When contributing or otherwise participating, please:
+
+- Be friendly and welcoming
+- Be patient
+- Be thoughtful
+- Be respectful
+- Be charitable
+- Avoid destructive behavior
+
+Excerpted from the [Go conduct document](https://golang.org/conduct).
 
 ### Project Scope
 
