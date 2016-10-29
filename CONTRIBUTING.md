@@ -66,7 +66,7 @@ If you are a new contributor, thank you!  Before your first merge, you will need
 
 ### Code Contribution
 
-If it is possible to split a large pull into two or more smaller pull requests, please try to do so.  Pulls should include tests for any new code before merging.  It is ok to start a pull request on partially implemented code to get feedback, and see if your approach to a problem is sound.  You don't need have to have tests, or even have code that compiles to open a pull.  Benchmarks are optional for new features, but if you are submitting a pull justified by performance improvment, you will need benchmarks to measure the impact of your change, and the pull should include a report from [benchcmp](https://godoc.org/golang.org/x/tools/cmd/benchcmp).
+If it is possible to split a large pull into two or more smaller pull requests, please try to do so.  Pulls should include tests for any new code before merging.  It is ok to start a pull request on partially implemented code to get feedback, and see if your approach to a problem is sound.  You don't need have to have tests, or even have code that compiles to open a pull.  Benchmarks are optional for new features, but if you are submitting a pull justified by performance improvment, you will need benchmarks to measure the impact of your change, and the pull should include a report from [benchcmp](https://godoc.org/golang.org/x/tools/cmd/benchcmp) or [benchstat](https://github.com/rsc/benchstat).
 
 ### Code Review
 
