@@ -78,4 +78,4 @@ If you are looking for some way to help the Gonum project, there are good places
 
 ### Style
 
-`gofmt` your code - we won't accept it otherwise.
+We use [Go style](https://github.com/golang/go/wiki/CodeReviewComments).
