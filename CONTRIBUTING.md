@@ -71,7 +71,7 @@ If the scope of the enhancement is small, open an issue.  If it is large, such a
 
 ### Your First Code Contribution
 
-If you are a new contributor, thank you!  Before your first merge, you will need to be added to the [CONTRIBUTORS](https://github.com/gonum/license/blob/master/CONTRIBUTORS) and [AUTHORS](https://github.com/gonum/license/blob/master/AUTHORS) file.  Open a pull request adding yourself to them.
+If you are a new contributor, thank you!  Before your first merge, you will need to be added to the [CONTRIBUTORS](https://github.com/gonum/license/blob/master/CONTRIBUTORS) and [AUTHORS](https://github.com/gonum/license/blob/master/AUTHORS) file.  Open a pull request adding yourself to them.  All Gonum code follows the BSD license in the license document.  We prefer that code contributions do not come with additional licensing.  For exceptions, added code must also follow a BSD license.
 
 ### Code Contribution
 
