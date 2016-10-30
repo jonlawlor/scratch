@@ -1,7 +1,7 @@
 # [<img src="https://avatars1.githubusercontent.com/u/3771091?v=3&s=30">](https://github.com/gonum) Contribution Guidelines
 #### Introduction
 
-The Gonum project provides general purpose numerical computing and data science libraries for the Go programming language.  This document is for anyone who is contributing or interested in contributing.
+The Gonum project provides general purpose numerical computing and data science libraries for the Go programming language, and we would like you to join us in improving Gonum's quality and scope.  This document is for anyone who is contributing or interested in contributing.
 
 #### Table of Contents
 
